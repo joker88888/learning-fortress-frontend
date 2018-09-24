@@ -4,7 +4,7 @@ This is a simple VLE project running using a firebase backend. It is designed as
 
 ## Basic Installation 
 1. Make sure you have git, node and npm. We use Visual Studio to edit our code.
-2. Clone and install
+2. Clone and install    
 ```bash
 $ git clone git@github.com:Scholar-6/learning-fortress-frontend.git
 $ npm install
